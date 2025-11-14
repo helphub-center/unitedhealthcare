@@ -6,7 +6,7 @@ Get Started with Benefits, Claims, ID Cards, and More
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.uhc.com" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://us6.my/?aHR0cHM6Ly9tZW1iZXJ1aGNoZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Create UHC Account
         </a>
     </div>
@@ -96,10 +96,10 @@ Creating your UHC member account is fast and gives you complete control over you
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.uhc.com" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://us6.my/?aHR0cHM6Ly9tZW1iZXJ1aGNoZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Create UHC Account
         </a>
-        <a href="https://www.uhc.com/member-resources" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://us6.my/?aHR0cHM6Ly9tZW1iZXJ1aGNoZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 UHC Member Resources
         </a>
         <a href="https://www.uhc.com/contact-us" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
